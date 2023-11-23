@@ -128,3 +128,11 @@ window.addEventListener('load', () => {
     });
   }, 100); // Adjust the delay as needed
 });
+
+function connectToServer() {
+  const serverIP = document.getElementById('serverName').value.trim();
+
+  // Open the Minecraft game with the server IP (Minecraft:// protocol)
+  const protocolLink = `minecraft://${serverIP}`;
+  window.open(protocolLink);
+}
