@@ -17,7 +17,5 @@ Completed (✅):
 To-Do:
 - Add some more buttons onto the page
 
-- tbh just add more features in general **(i'll just ask chatgpt for some ideas)**
-
 
 
