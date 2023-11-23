@@ -13,3 +13,9 @@
        - Copy to clipboard button
 
 
+- Added a button which directly opens the game up (Bedrock Only sadly...)
+
+- Changed the color of the background
+    - Meaning I had to remove the dark/light mode toggle, as it had no more functionality, sorry!
+
+

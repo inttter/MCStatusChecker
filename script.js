@@ -112,13 +112,6 @@ function shareServerName() {
     });
 }
 
-function toggleTheme() {
-  const body = document.body;
-
-  // Toggle the 'dark-mode' class on the body
-  body.classList.toggle('dark-mode');
-}
-
 // Trigger the fade-in animation for center elements with a slight delay after page load
 window.addEventListener('load', () => {
   setTimeout(() => {
