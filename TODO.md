@@ -20,10 +20,7 @@ Completed (✅):
 ✅ - Add an icon which leads to the GitHub repository (With an icon)
 ✅ - Add a Ko-fi donation button
 ✅ - Create an extensive README
-
-To-do:
-
-- Liven up the README more
-- Add some Shield.io buttons
+✅ - Liven up the README more
+✅ - Add some Shield.io buttons
 
 
