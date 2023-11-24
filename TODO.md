@@ -19,8 +19,11 @@ Completed (✅):
 ✅ - Remove dark/light mode toggle and functions (it's useless as of the background color change)
 ✅ - Add an icon which leads to the GitHub repository (With an icon)
 ✅ - Add a Ko-fi donation button
+✅ - Create an extensive README
 
-To-Do:
-- Create an extensive README
+To-do:
+
+- Liven up the README more
+- Add some Shield.io buttons
 
 

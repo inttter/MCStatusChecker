@@ -28,3 +28,8 @@
       - GitHub repository icon added
       - Changed some wording
       - and other little changes...
+
+
+- Added an extensive README
+- Liven(ed) up the README more
+- Added some Shield.io buttons
