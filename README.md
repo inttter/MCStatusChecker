@@ -29,7 +29,7 @@ Have you ever tried to join a server, but it didn't work?
 
 Type the following into your terminal of choice:
 
-    git clone https://github.com/inttter/MCStatusChecker
+    git clone https://github.com/inttter/MCStatusChecker.git
 
 ## 👨‍💻 Technologies Used 👨‍💻
 
