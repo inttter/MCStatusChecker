@@ -129,3 +129,13 @@ function connectToServer() {
   const protocolLink = `minecraft://${serverIP}`;
   window.open(protocolLink);
 }
+
+const button = document.querySelector('button');
+
+button.addEventListener('mouseout', () => {
+  button.classList.add('transition-out');
+});
+
+button.addEventListener('mouseenter', () => {
+  button.classList.remove('transition-out');
+});

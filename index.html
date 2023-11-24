@@ -7,12 +7,13 @@
   <title>MCStatusChecker</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600&display=swap">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 
 <body>
   <div class="container">
     <h1>Check the status of a Minecraft server:</h1>
-    <div class="container fade-in">
+    <class="container fade-in">
     <div class="search-container">
       <input type="text" id="serverName" placeholder="Enter Server Name">
       <button onclick="checkServerStatus()">Check Status</button>
@@ -21,11 +22,20 @@
     <div class="status-container" id="statusContainer">
       <!-- Server status details will appear here -->
     </div>
-    <!-- New button to connect to the server, only for Bedrock, it will open up Windows 10 Edition for better convenience -->
+    <!-- Button to open the game, !Only for Bedrock!, it will open up Windows 10 Edition for better convenience -->
     <div class="connect-button">
-      <button onclick="connectToServer()">Connect to Server (Bedrock Only)</button>
+      <button onclick="connectToServer()">Open Minecraft (Bedrock Only)</button>
     </div>
+    <!-- GitHub logo link -->
+    <a href="https://github.com/inttter/MCStatusChecker" target="_blank" class="github-icon">
+      <i class="fab fa-github"></i>
+    </a>
+    <a href="https://ko-fi.com/intter" target="_blank" class="kofi-button">
+      <img src="Ko-Fi Button.png" alt="Ko-Fi Button">
+    </a>
   </div>
+
   <script src="script.js"></script>
 </body>
+
 </html>

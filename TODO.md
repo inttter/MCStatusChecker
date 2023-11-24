@@ -1,6 +1,6 @@
 # Minecraft Server Status To-Do List
 
-A to-do list for the [MCServerChecker repository](https://github.com/inttter/MCServerChecker)
+A to-do list for the [MCStatusChecker repository](https://github.com/inttter/MCStatusChecker)
 
 Completed (✅):
 
@@ -17,13 +17,10 @@ Completed (✅):
 
 ✅ - Changed the background color
 ✅ - Remove dark/light mode toggle and functions (it's useless as of the background color change)
-
+✅ - Add an icon which leads to the GitHub repository (With an icon)
+✅ - Add a Ko-fi donation button
 
 To-Do:
-- Add some more buttons onto the page
-- Add an icon which leads to the GitHub repository (With an icon)
-- Add a Ko-fi donation button
-- Add some more buttons
 - Create an extensive README
 
 
