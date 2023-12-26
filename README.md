@@ -54,8 +54,12 @@ Contributions are welcome! Feel free to fork the repository and create a pull re
 
 See LICENSE for more information.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finttter%2FMCStatusChecker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Finttter%2FMCStatusChecker?ref=badge_large)
+
 ## ☕ Buy me a Coffee! ☕
 
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/intter)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finttter%2FMCStatusChecker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Finttter%2FMCStatusChecker?ref=badge_shield)
 
 </div>
